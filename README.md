@@ -26,7 +26,7 @@
   </a> 
 </p>
 
-<br /><br />
+<br />
 
 
 
@@ -38,11 +38,11 @@
 
 🙋‍♂️ Always here to collaborate on real-world problems.
 
-💬 Ask me about:&emsp;<span style="font-family: monospace; font-weight: 510;">Frontend Technologies, Backend Technologies, DevOps, Database Management, Cloud Services, and Mobile Development.</span>
+💬 Ask me about:<span style="font-family: monospace; font-weight: 510;"> Frontend Technologies, Backend Technologies, DevOps, Database Management, Cloud Services, and Mobile Development.</span>
 
 ✉️ Reach me: [theayazsoomro@gmail.com](mailto:theayazsoomro@gmail.com)
 
-<br /><br />
+<br />
 
 
 
