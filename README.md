@@ -26,7 +26,7 @@
   </a> 
 </p>
 
-<br /><br /><br />
+<br /><br />
 
 
 
@@ -42,7 +42,7 @@
 
 ✉️ Reach me: [theayazsoomro@gmail.com](mailto:theayazsoomro@gmail.com)
 
-<br /><br /><br />
+<br /><br />
 
 
 
