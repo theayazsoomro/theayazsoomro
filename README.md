@@ -9,7 +9,7 @@
 
 <br>
 <p align="center">
- <a href="http://ayazsoomro.me" target="_blank">
+ <a href="http://ayazsoomro.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ayaz" />
  </a>
  <a href="https://linkedin.com/in/theayazsoomro" target="_blank">
