@@ -1,5 +1,5 @@
 <div align="center" style="font-size: 3rem; font-weight: bold;">
-  <h1>Hi 👋, I'm <a href="http://www.ayazsoomro.me" target="_blank" style="color: dodgerblue;">Mohammad Ayaz</a></h1>
+  <h1>Hi 👋, I'm <a href="http://ayazsoomro.netlify.app" target="_blank" style="color: dodgerblue;">Mohammad Ayaz</a></h1>
 </div>
 
 <h3 align="center" style="font-size: 1.2rem; font-weight: 500; font-family: monospace;">
